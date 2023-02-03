@@ -1,0 +1,54 @@
+Lets start and learn DSA(the most seeking skills that we ever want and we never learn that thing bcuz of that idea that raised 
+when ever we listen that DSA is hard to learn)....whatever today lets start that scariest thing...
+
+DAY-1 & 2
+        Learn time and space complexity
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY-3 to DAY-10
+        Recursion and Backtracking
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY-11 to DAY-30
+        Learn basic data structures
+                  -->Arrays
+                  -->Linked lists
+                  -->Stacks and Queues
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::Time for Contest::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+DAY-31 to DAY-45
+        Start some Complex data strucutures and algorithms
+                       -->Searching
+                       -->Sorting
+                                    >>Bubble sort
+                                    >>Insertion sort
+                                    >>Quick sort
+                                    >>Merge sort
+                                    >>Selection sort
+                                    
+                       -->Hashing
+                       -->Trees
+                       -->Heaps
+                       -->Sliding Window
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY-46 to DAY-70
+          DP(Dynamic Programming) and Graph
+          Graph:
+             >>Breadth First Search(BFS)
+             >>Depth First Search(DFS)
+             >>Dijkstra's
+             >>Floyd warshall
+             >>Minimum Spanning tree:prims and krushal 
+             >>Strongly connected components:kosaraju's algorithm
+             >>Topological sort
+             >>Shortest path from source to all vertices with negative edges:Bellman Ford
+             >>Normal DSU
+             >>DSU by rank
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY-71 to DAY-80
+            Learn OOPs
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+DAY-81 to DAY-90
+            Number theory
+            Bit manipulation
+            Tries
